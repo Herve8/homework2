@@ -16,8 +16,9 @@ This portfolio contains three web pages:
 
 My web pages have been uploaded to the following addresses:
 
-GitHub URL: https://github.com/Hisaacs/myPortfolio
+GitHub URL: https://github.com/Herve8/myportfolio
 
 GitHub Pages URL: https://herve8.github.io/myportfolio/
+
 
 
